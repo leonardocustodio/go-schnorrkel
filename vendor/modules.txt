@@ -28,4 +28,4 @@ golang.org/x/crypto/pbkdf2
 golang.org/x/sys/cpu
 golang.org/x/sys/unix
 # gopkg.in/yaml.v2 v2.2.2
-gopkg.in/yaml.v2
+github.com/go-yaml/yaml v2.4.0
